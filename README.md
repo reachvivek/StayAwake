@@ -14,7 +14,7 @@ A lightweight Python tool to keep your computer awake by gently moving the mouse
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/stayawake.git
+   git clone https://github.com/reachvivek/stayawake.git
    cd stayawake
    ```
 2. **Install dependencies**:
