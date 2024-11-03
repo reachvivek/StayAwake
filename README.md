@@ -4,6 +4,7 @@ A lightweight Python tool to keep your computer awake by gently moving the mouse
 
 ## 🚀 Features
 
+- **Activity Detection**: Automatically triggers mouse jiggling after 30 seconds of inactivity, ensuring your computer remains awake without constant manual control.
 - **Customizable Patterns**: Move the mouse in circular, random, or user-defined patterns.
 - **Adjustable Timing**: Set the intervals and movement radius to suit your needs.
 - **Simple & Lightweight**: Runs quietly in the background without interrupting your workflow.
